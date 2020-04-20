@@ -1,3 +1,3 @@
 # wordcounter
-#### H4 Wordcounter by TomyPoty
+###### Wordcounter by TomyPoty
 
