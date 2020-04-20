@@ -1,2 +1,2 @@
-# WORDCOUNTER *by TomyPoty*
+# WORDCOUNTER *by Tomáš Potočiar*
 
