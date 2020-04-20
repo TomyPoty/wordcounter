@@ -1,2 +1,3 @@
-## WORDCOUNTER ###### by TomyPoty
+## WORDCOUNTER 
+###### by TomyPoty
 
