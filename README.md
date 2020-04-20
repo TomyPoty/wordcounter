@@ -1,3 +1,3 @@
-# wordcounter
+###wordcounter
 ###### Wordcounter by TomyPoty
 
